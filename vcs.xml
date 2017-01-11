@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/javedak09/MultiLingualApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/android/platform_frameworks_base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\MultiLingualApp" />
+    <option name="cloneParentDir" value="F:\platform_framework_base" />
   </component>
 </application>
