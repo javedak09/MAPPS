@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/javedak09/MAPPS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/javedak09/MyTestProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\MAPPSFinal\MAPPS" />
+    <option name="cloneParentDir" value="E:\TestFinal" />
   </component>
 </application>
