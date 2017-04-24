@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/javedak09/MyTestProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shznaqvi/MaPPS-Form1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\MyTestProject" />
+    <option name="cloneParentDir" value="e:\MaPPSF1" />
   </component>
 </application>
