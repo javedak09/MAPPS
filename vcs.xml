@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/javedak09/ChangeLanguage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shznaqvi/MaPPS-S1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="f:\" />
