@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/javedak09/smssender.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shznaqvi/crt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="f:\" />
